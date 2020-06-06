@@ -15,7 +15,7 @@
       "typescript": "^3.5.3"
    },
    "dependencies": {
-      "apollo-server-express": "^2.8.1",
+      "apollo-server-express": "^2.14.2",
       "bcryptjs": "^2.4.3",
       "express": "^4.17.1",
       "express-session": "^1.16.2",
